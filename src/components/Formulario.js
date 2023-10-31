@@ -39,6 +39,7 @@ const Formulario = () => {
                 <button className='btn btn-primary' type='submit'>Enviar</button>
             </div>
         </form>
+        <h2>Bienvenido</h2>
         <h3>{datos.nombre} {datos.apellido}</h3>
         </Fragment>
     );
